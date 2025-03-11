@@ -1,3 +1,4 @@
+//Mariah Dungey 03/11/2025
 public class Main {
     public static void main(String[] args) {
         ToEmail emailing1 = new ToEmail("Mariah", "nightcore.addiction01@gmail.com.");
